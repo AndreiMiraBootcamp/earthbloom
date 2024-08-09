@@ -14,7 +14,7 @@ import es.animal.hogar.entities.User;
 import es.animal.hogar.services.UserService;
 
 @RestController
-@RequestMapping("/api/users")
+@RequestMapping("/protected/api/users")
 public class UserController {
 
     @Autowired

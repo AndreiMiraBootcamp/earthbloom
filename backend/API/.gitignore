@@ -33,6 +33,6 @@ build/
 .vscode/
 
 ### Entidades de Andrei ###
-src/main/java/es.animal.hogar.entities.Pet
-src/main/java/es.animal.hogar.entities.AdoptionCenter
-src/main/java/es.animal.hogar.repositories.AdoptionCenterRepository
+src/main/java/es/animal/hogar/entities/Pet.java
+src/main/java/es/animal/hogar/entities/AdoptionCenter.java
+src/main/java/es/animal/hogar/repositories/AdoptionCenterRepository.java

@@ -11,7 +11,7 @@ import es.animal.hogar.entities.Follow;
 import es.animal.hogar.services.FollowService;
 
 @RestController
-@RequestMapping("/api/follows")
+@RequestMapping("/protected/api/follows")
 public class FollowController {
 
     @Autowired

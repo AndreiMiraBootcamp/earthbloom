@@ -10,7 +10,7 @@ import es.animal.hogar.entities.Favorite;
 import es.animal.hogar.services.FavoriteService;
 
 @RestController
-@RequestMapping("/api/favorites")
+@RequestMapping("/protected/api/favorites")
 public class FavoriteController {
 
     @Autowired
